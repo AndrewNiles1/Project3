@@ -1,0 +1,11 @@
+head, header, nav, main, footer, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+nav {
+    display:block;
+    color: black;
+    background-color: white;
+}
